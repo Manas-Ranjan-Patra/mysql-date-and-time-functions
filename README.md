@@ -136,9 +136,9 @@ SELECT DATE_SUB('2017-02-29', INTERVAL -1 DAY);
 ## 👨‍💻 Author
 
 **Manas Ranjan Patra**\
-GitHub: `Manaspatra52759`
+GitHub: [Manas-Ranjan-Patra](https://github.com/Manas-Ranjan-Patra)
 
-LinkedIn :
+LinkedIn : [Manas Ranjan Patra](https://www.linkedin.com/in/manas-ranjan-patra-4171b02a9/)
 
 ---
 
